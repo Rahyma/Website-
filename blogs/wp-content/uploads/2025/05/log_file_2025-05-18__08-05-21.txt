@@ -1,0 +1,105 @@
+
+---Downloaded files---
+The import files for: Magezix Main were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = https://localhost/law-website/blogs
+Data file = D:\softwares install\xamp\htdocs\law-website\blogs/wp-content/themes/magezix/lib/ocdi/demo/content.xml
+Widget file = D:\softwares install\xamp\htdocs\law-website\blogs/wp-content/themes/magezix/lib/ocdi/demo/widgets.wie
+Customizer file = D:\softwares install\xamp\htdocs\law-website\blogs/wp-content/themes/magezix/lib/ocdi/demo/customizer.dat
+Redux files:
+not defined!
+
+---ocdi/before_content_import---
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "001-email (1)" (Media)
+[ERROR] Failed to import "envelope" (Media)
+[ERROR] Failed to import "address 1" (Media)
+[ERROR] Failed to import "instagram (1) 1" (Media)
+[ERROR] Failed to import "light-logo" (Media)
+[ERROR] Failed to import "logo" (Media)
+[ERROR] Failed to import "logo-v2" (Media)
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+

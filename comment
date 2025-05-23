@@ -1,0 +1,22 @@
+ <img src="<?php echo $basesurl;?>images/logo.webp" alt="">
+ <img src='./assets/images/logo1.png' alt=''>
+ <a href="javascript:;">KNOW MORE</a>
+ <a href="javascript:;"><i class="fa fa-facebook-f"></i></a>
+  background-repeat: no-repeat;
+    background: url('../images/banner.png');
+    background-size: cover;
+    background-position: center;
+
+
+    // prevArrow:"<button type='button' class='slick-prev slick-arrow'><img src='./assets/images/Ellipse 1.png' alt=''></button>",
+  // nextArrow:"<button type='button' class='slick-next slick-arrow'><img src='./assets/images/Ellipse 2.png' alt=''></button>",
+
+  <section class="first-section">
+		<div class="container-fluid">
+			<div class="row">
+				<div class="col-md-1">
+					
+				</div>				
+			</div>
+		</div>
+	</section>

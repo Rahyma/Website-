@@ -1,0 +1,14 @@
+# WordPress sensitive and bulky files
+wp-config.php
+wp-content/uploads/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+
+# Dependency folders
+node_modules/
+vendor/
