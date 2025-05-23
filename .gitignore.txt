@@ -1,6 +1,7 @@
 # WordPress sensitive and bulky files
 wp-config.php
 wp-content/uploads/
+wp-content/plugins/fluentform
 
 # System files
 .DS_Store
